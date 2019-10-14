@@ -1,4 +1,3 @@
-# Practica01-Mi-Blog
 CONCLUSIONES:
 •	Los estudiantes podrán organizar sitios web basados en el lenguaje de etiquetado HTML.
 •	Que se debe organizar muy bien las etiquetas y la información para que la estructura sea correcta y lograr los resultados esperados.
